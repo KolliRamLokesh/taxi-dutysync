@@ -1,0 +1,6 @@
+{
+  "name": "DutySync",
+  "description": "Cross-platform duty switcher for Rapido, Uber, and Ola captains in Hyderabad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
